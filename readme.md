@@ -4,6 +4,9 @@ This repository contains:
 - Various figures of simulation results and experimental results
 - A report of the experiment
 
+Model of the experimental setup:
+
+![Image of model of the experimental setup](PIDModelDiagram.PNG)
 
 Closed Loop Experimental setup:
 
