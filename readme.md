@@ -10,12 +10,12 @@ Model of the experimental setup:
 
 Closed Loop Experimental setup:
 
-![Image of experimental setup](Experimental Procedure 2.PNG)
+![Image of experimental setup](ExperimentalProcedure2.PNG)
 
 Tuning of PID values based on simulated system:
 
-![Image of tuning of PID values based on simulated system](Tuned Values Model.PNG)
+![Image of tuning of PID values based on simulated system](TunedValuesModel.PNG)
 
 Step response of tuned values:
 
-![Image of resulting tuned values](Tuned Values Scope.png)
+![Image of resulting tuned values](TunedValuesScope.png)
